@@ -29,4 +29,5 @@ def rand_index(clusters):
 
 	return adjusted_rand_score(x,y)
 
-rand_index(clusters)
+
+
